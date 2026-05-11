@@ -1,2 +1,2 @@
-# retail-analytical-chatbot
-AI-powered retail analytics chatbot for customer and sales insights.
+# genai-retail-chatbot
+GenAI-powered retail chatbot for customer insights and retail analytics.
